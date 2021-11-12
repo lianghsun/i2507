@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a coder who is interleaving with web, cyber issue, network and deep learning. Some technologies I interested in: Python, Tensorflow, PHP (particularly in Laravel), Penetration, ..etc, coding makes me a lot fun 🤩. Life is so amazing that I have a chance to learn deep learning and drug domain know-how, even I haven't heard them before! Recently, I focus more on how to apply deep learning on drug discovery 💊 with Tensorflow 2.x and analysis new generated compounds properties with RDKit. 
+
 <!--
 **i2507/i2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
