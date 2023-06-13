@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a coder who is interleaving with web, cyber issue, network and deep learning. Some technologies I interested in: Python, Tensorflow, PHP (particularly in Laravel), Penetration, ..etc, coding makes me a lot fun 🤩. Life is so amazing that I have a chance to learn deep learning and drug domain know-how, even I haven't heard them before! Recently, I focus more on how to apply deep learning on drug discovery 💊 with Tensorflow 2.x and analysis new generated compounds properties with RDKit. 
+I am a passionate programmer, adept at intertwining web technologies, cybersecurity, networking, and deep learning concepts. I harbor a keen interest in technologies such as Python, Tensorflow, PHP (with a particular emphasis on Laravel), Penetration Testing, and more. Coding invigorates me, it's an exciting journey of discovery and innovation! 🤩
+
+Life continually astounds me, providing opportunities to delve into domains like deep learning and pharmaceutical studies, areas that were once completely foreign to me. My recent endeavors are concentrated on implementing deep learning in drug discovery 💊 using Tensorflow 2.x, and analyzing the properties of newly synthesized compounds with RDKit. I am exhilarated by the endless potential this field holds and look forward to contributing to its advancements.
 
 <!--
 **i2507/i2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
